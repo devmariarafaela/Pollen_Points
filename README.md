@@ -1,7 +1,16 @@
 # Pollen Project - Projeto Final de Formação AfroTech-BEES
 
-<img src="./home.jpg" width="400">
+## Tecnologias Utilizadas:
+- React Js
+- Router
+- Styled Components
+- CEP API
+- Figma 
 
+<img src="src/Assets/Imagens/home.jpg">
+<img src="src/Assets/Imagens/sobre.jpg">
+<img src="src/Assets/Imagens/pedidos.jpg">
+<img src="src/Assets/Imagens/carrinho.jpg">
 
 ## Estrutura do projeto:
 
